@@ -18,5 +18,4 @@
     <div class="barometer">Barometer: <?php print $widget['pressure_in']; ?></div>
     <div class="visibility">Visibility: <?php print $widget['visibility_mi']; ?> miles</div>
   </div>
-  </div>
 </div>
